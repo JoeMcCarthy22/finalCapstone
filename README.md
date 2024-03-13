@@ -1,5 +1,6 @@
-Task Management System
+**Task Management System**
 Description
+
 The Task Management System is a Python-based program designed to help users organize and track tasks efficiently. It allows users to register, add tasks, view tasks, and generate reports. The program provides admin functionality for generating reports and displaying statistics.
 
 Importance
