@@ -1,0 +1,6 @@
+The number of tasks generated and tracked is: 4 
+The number of completed tasks is: 1 
+The number of incomplete tasks is: 3 
+The number of incomplete and overdue tasks is: 2 
+The percentage of tasks that are incomplete: 75.0% 
+The percentage of tasks that are overdue is: 50.0%

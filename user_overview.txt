@@ -1,0 +1,6 @@
+The number of users registered is: 4 
+The number of tasks generated and tracked is: 4 
+User: admin, Tasks Assigned: 3, Tasks Completed: 1, Percentage of total tasks assigned to user: 75.0 , Completion Percentage: 33.33%, Percentage of Tasks still needed to be completed: 66.67%, Overdue and Incomplete Tasks Percentage: 33.33%
+User: Joe, Tasks Assigned: 1, Tasks Completed: 0, Percentage of total tasks assigned to user: 25.0 , Completion Percentage: 0.00%, Percentage of Tasks still needed to be completed: 100.00%, Overdue and Incomplete Tasks Percentage: 100.00%
+User: Gary, Tasks Assigned: 0, Tasks Completed: 0, Percentage of total tasks assigned to user: 0.0 , Completion Percentage: 0.00%, Percentage of Tasks still needed to be completed: 100.00%, Overdue and Incomplete Tasks Percentage: 0.00%
+User: Jeff, Tasks Assigned: 0, Tasks Completed: 0, Percentage of total tasks assigned to user: 0.0 , Completion Percentage: 0.00%, Percentage of Tasks still needed to be completed: 100.00%, Overdue and Incomplete Tasks Percentage: 0.00%
