@@ -63,5 +63,13 @@ Exit (e): Terminates the program.
 Ensure VS Code Folder Structure: Open the entire folder containing the program files in VS Code to ensure proper file access. Otherwise, the program may look for files in the root directory.
 
 **Credits**
+
+
 Joe McCarthy
+
+
 Thanks for viewing!
+
+
+
+![image](https://github.com/JoeMcCarthy22/finalCapstone/assets/151676157/1665d2e1-ed45-413f-af2d-6e4a3d3f8967)
